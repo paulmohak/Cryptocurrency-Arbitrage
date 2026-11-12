@@ -1,0 +1,19 @@
+__pycache__/
+*.py[cod]
+*.egg-info/
+.pytest_cache/
+.ipynb_checkpoints/
+.venv/
+venv/
+
+# data and outputs (large / regenerable)
+data/
+*.zip
+*.csv
+outputs/
+*.joblib
+
+# misc
+.DS_Store
+.idea/
+.vscode/
